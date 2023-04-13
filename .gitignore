@@ -3,5 +3,6 @@
 log.txt
 
 __pycache__/
+cogs/__pycache__/
 
-logs/s
+lavalink/logs/
